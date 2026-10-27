@@ -18,6 +18,8 @@ To win you must eliminate 10 meteors using your cheesepuff dispenser, and avoid 
 
 ## Demo ▶️
 
+<video src="dino-dodge-demo.mp4" controls width="600"></video>
+
 ## Reflection 🤔
 - Learnt how to structure game logic in Scratch, and understood the fundementals of using optimal code e.g functions.
 - Challenges:
